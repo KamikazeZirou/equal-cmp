@@ -1,4 +1,4 @@
-module github.com/kamikaze-zirou/equal-cmp
+module github.com/kamikazezirou/equal-cmp
 
 go 1.17
 

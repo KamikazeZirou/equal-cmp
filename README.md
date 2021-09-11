@@ -12,7 +12,7 @@ Given the following test code using ginkgo and gomega.
 package example_test
 
 import (
-	. "github.com/kamikaze-zirou/equal-cmp"
+	. "github.com/kamikazezirou/equal-cmp"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )
